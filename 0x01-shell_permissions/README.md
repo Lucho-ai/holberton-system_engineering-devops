@@ -1,0 +1,1 @@
+That guide to permissions of shell
