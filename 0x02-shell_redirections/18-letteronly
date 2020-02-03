@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-sfs
-=======
 grep *[[:alpha:]] /etc/ssh/sshd_config
->>>>>>> 9b944a289dce3f8d2c6ef52b6962531b1dfbc03e
